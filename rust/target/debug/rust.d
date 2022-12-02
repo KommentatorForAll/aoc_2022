@@ -1,0 +1,1 @@
+/media/Leonie/Programme/programming_stuff/AdventOfCode/2022/rust/target/debug/rust: /media/Leonie/Programme/programming_stuff/AdventOfCode/2022/rust/src/day1.rs /media/Leonie/Programme/programming_stuff/AdventOfCode/2022/rust/src/main.rs

@@ -1,7 +1,8 @@
 *.class
-.idea
-.gradle
-gradlew
-gradlew.bat
-build
-gradle
+**/.idea
+**/.gradle
+**/gradlew
+**/gradlew.bat
+**/build
+**/gradle
+**/target
