@@ -1,1 +1,1 @@
-/media/Leonie/Programme/programming_stuff/AdventOfCode/2022/rust/target/debug/rust: /media/Leonie/Programme/programming_stuff/AdventOfCode/2022/rust/src/day2.rs /media/Leonie/Programme/programming_stuff/AdventOfCode/2022/rust/src/main.rs
+D:\programming_stuff\AdventOfCode\2022\rust\target\debug\rust.exe: D:\programming_stuff\AdventOfCode\2022\rust\src\day2.rs D:\programming_stuff\AdventOfCode\2022\rust\src\day3.rs D:\programming_stuff\AdventOfCode\2022\rust\src\main.rs
