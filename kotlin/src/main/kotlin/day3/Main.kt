@@ -16,7 +16,7 @@ fun main(args: Array<String>) {
         val doubleChars = setA.intersect(setB)
         println(doubleChars.size)
         println(doubleChars.first() - 0)
-        score += doubleChars.first().digitToInt() - 65
+        score += doubleChars.first().code - 65
     }
     println(score)
 }
